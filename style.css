@@ -1,0 +1,16 @@
+*:focus {
+  outline: none !important;
+  box-shadow: 0 0 0.1em 0.2em #613dc1 !important;
+}
+input:focus {
+  outline: none !important;
+  box-shadow: 0 0 0.1em 0.2em #613dc1 !important ;
+}
+input[type="submit"]:focus {
+  outline: none !important;
+  box-shadow: 0 0 0.1em 0.2em #613dc1 !important;
+}
+a:focus {
+  outline: none !important;
+  box-shadow: 0 0 0.1em 0.2em #613dc1 !important;
+}
