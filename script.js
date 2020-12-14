@@ -1,3 +1,5 @@
 $(document).ready(function () {
-  $("article").readingTime();
+  $("article").readingTime({
+    wordCountTarget: _this.find(".word-count"),
+  });
 });
